@@ -1,0 +1,206 @@
+@media print{
+    .container{
+        zoom: 0.60;
+        margin: 0 20px!important;
+    }
+    @page {
+        /*size: auto;*/
+        size: portriat;
+        margin: 0;
+        /*margin: 0;*/
+    }
+}
+
+body {
+    background-color: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 27px;
+}
+
+h3 {
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.header {
+    display: inline-flex;
+    align-content: space-between;
+}
+
+.headertext {
+    text-align: center;
+    margin-inline: auto;
+    font-stretch: semi-condensed;
+    line-height: 20px;
+    margin-top: 5px;
+}
+
+.logo {
+    width: 137px;
+    height: 101px;
+    margin-left: 8px;
+    margin-right: 20px;
+}
+
+.firstrow {
+    border: 2px solid black;
+    width: 100%;
+    font-size: 14px;
+    margin-top: -5px;
+}
+
+.secondrow {
+    width: 100%;
+    font-size: 18px;
+}
+
+.dot1 {
+    border-bottom: dotted black 2px;
+    padding-right: 461px;
+}
+
+.dot2 {
+    border-bottom: dotted black 2px;
+    padding-right: 113px;
+}
+
+.dot3 {
+    border-bottom: dotted black 2px;
+    padding-right: 375px;
+}
+
+.dot4 {
+    border-bottom: dotted black 2px;
+    padding-right: 145px;
+}
+
+.dot5 {
+    border-bottom: dotted black 2px;
+    padding-right: 195px;
+}
+
+.dot6 {
+    border-bottom: dotted black 2px;
+    padding-right: 259px;
+}
+
+.dot7 {
+    border-bottom: dotted black 2px;
+    padding-right: 195px;
+}
+
+.dot8 {
+    border-bottom: dotted black 2px;
+    padding-right: 229px;
+}
+
+.scoreheader {
+    border: 2px solid black;
+    width: 100%;
+    border-collapse: collapse;
+    border-top: 1px;
+    text-align: center;
+}
+
+.scoreheader td {
+    border: 2px solid black;
+    border-top: 1px;
+}
+
+.PersonalDev1 {
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.PersonalDev1 td {
+    border: 2px solid black;
+}
+
+.PersonalDev2 {
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.PersonalDev2 td {
+    border: 2px solid black;
+}
+
+.PersonalDev3 {
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.PersonalDev3 td {
+    border: 2px solid black;
+}
+
+.PersonalDev4 {
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.PersonalDev4 td {
+    border: 2px solid black;
+}
+
+.foot {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.foot td {
+    border: 2px solid black;
+}
+
+.dot10 {
+    border-bottom: dotted black 2px;
+    padding-right: 50px;
+}
+
+.foot1 {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.foot1 td {
+    border: 2px solid black;
+}
+
+.foot2 {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.foot2 td {
+    border: 2px solid black;
+}
+
+.foot3 {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+.foot3 td {
+    border: 3px solid black;
+}
+
+.scores {
+    text-align: center;
+}
+
+.bold {
+    width: 40px;
+}
+
+
+.dot10 img {
+    height: 24px;
+    margin-left: 23px;
+}
